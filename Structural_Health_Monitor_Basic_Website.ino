@@ -7,8 +7,8 @@
 #include <Adafruit_Sensor.h>
 
 // ---------------- WiFi ----------------
-const char* ssid = "Mega Geek";
-const char* password = "Adh@3006";
+const char* ssid = "***";
+const char* password = "****";
 
 // ---------------- Pins ----------------
 #define DHTPIN 4
